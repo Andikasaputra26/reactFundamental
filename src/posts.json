@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Tutorial belajar reactjs",
+        "tags" : ["react","fronted"],
+        "date": "2023-01-01",
+        "isNow" : true
+    },
+
+    {
+        "title": "Cara belajar nextjs",
+        "tags" : ["nextjs","fronted"],
+        "date": "2023-02-06",
+        "isNow" : true
+    },
+
+    {
+        "title": "Cara Menggunakan ThreeJs",
+        "tags" : ["ThreeJs","fronted"],
+        "date": "2023-02-02",
+        "isNow" : false
+    }
+]
